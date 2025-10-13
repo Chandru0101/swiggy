@@ -1,0 +1,110 @@
+*{
+    margin: 0%;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(245, 120, 4);
+}
+
+.hd{
+    font-family: foolight mt light;
+    color: rgb(245, 243, 242);
+    font-size: 50px;
+    padding-left: 50px;
+    padding-top: 10px;
+    text-decoration: none;
+}
+.li{
+    color:aliceblue;
+    font-size: 15px;
+    text-decoration: none;
+    padding-left: 20px;
+}
+#pic{
+    width: 40px;
+    height: 40px;
+    float: right;
+    padding-right: 20px;
+    padding-top:10px ;
+}
+#srch{
+    width: 100px;
+    height: 40px;
+    float: right;
+    padding-right: 500px;
+    padding-top:10px ;
+}
+.content{
+    background-image:url(fuddy.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+}
+h2{
+    color: rgb(243, 245, 245);
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    color: rgb(250, 249, 248);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+}
+p{
+    color: rgb(243, 242, 240);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    padding-top: 20px;
+}
+.ser{
+    width:100% ;
+    height: 600px;
+    text-decoration: none;
+    text-align: center;
+}
+#sh,#sp{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+
+}
+.img{
+    width: 400px;
+    height: 400px;
+    float:left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#im{
+    width: 250px;
+    height: 250px;
+}
+.bc{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    padding-top: 20px;
+    background-color: rgb(155, 149, 149);
+    width: 250px;
+    margin-left: 70px;
+    margin-top:10px ;
+    height: 40px;
+}
+.footer{
+    width: 100%;
+    height:150px;
+    background-color: rgb(158, 158, 153);
+    text-align: center;
+    padding-top: 80px;
+}
+#ins{
+    color: rgb(216, 107, 19);
+}
+#cp{
+    text-decoration: none;
+    color: black;
+}
